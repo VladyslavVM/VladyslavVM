@@ -14,6 +14,6 @@
   </h1>
 <div/>
  👨‍💻: About Me :
-Hello, my name is Vlad 👨‍🦱:
-I`m quality assurance/software tester form Ukraine 🇺🇦:
+Hello, my name is Vlad 🙋‍♂️
+I`m quality assurance/software tester form Ukraine :ukraine:
 🛠️: Languages and Tools :
