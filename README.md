@@ -13,4 +13,7 @@
   Hey there 
   </h1>
 <div/>
-### :woman_technologist: About Me :
+ 👨‍💻: About Me :
+Hello, my name is Vlad 👨‍🦱:
+I`m quality assurance/software tester form Ukraine 🇺🇦:
+🛠️: Languages and Tools :
