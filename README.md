@@ -13,7 +13,9 @@
   Hey there 
   </h1>
 <div/>
- 👨‍💻: About Me :
-Hello, my name is Vlad 🙋‍♂️
-I`m quality assurance/software tester form Ukraine :ukraine:
-🛠️: Languages and Tools :
+<div>
+ <h2>👨‍💻: About Me :<h2/>
+ <h3>Hello, my name is Vlad 🙋‍♂️<h3/>
+  <h3>I`m quality assurance/software tester from Ukraine<h3/>
+ <h2>🛠️: Languages and Tools :<h2/>
+ <div/>
