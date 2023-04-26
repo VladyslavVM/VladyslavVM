@@ -14,8 +14,7 @@
   </h1>
 <div/>
 <div>
- <h2>👨‍💻: About Me :<h2/>
- <h3>Hello, my name is Vlad 🙋‍♂️<h3/>
+  <h3>Hello, my name is Vlad 🙋‍♂️<h3/>
   <h3>I`m quality assurance/software tester from Ukraine<h3/>
- <h2>🛠️: Languages and Tools :<h2/>
  <div/>
+ <a href='https://vladyslavvm.github.io/about_me_site/'><h1 style='color:purple'>My site<h1/><a/>
