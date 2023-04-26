@@ -10,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=VladyslavVM&style=flat-square&color=blue" alt=""/>
   <div/>
   <h1>
-  hey there
+  Hey there 
   </h1>
 <div/>
+### :woman_technologist: About Me :
